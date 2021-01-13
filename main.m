@@ -10,7 +10,7 @@
 
 % add path for external package
 addpath('colorScheme/cbrewer');  % color scheme for plot
-
+addpath('functions/'); % path of the plotting functions
 
 % step 1: load data
 % example
