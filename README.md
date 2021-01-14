@@ -4,7 +4,7 @@ This project is designed to visualize Cyclo Ocean Circulation Inverse Model (CYC
 ### 1. Project Overview<a name="overview"></a>
 
 To provide a tool for scientists to study the biogeochemical cycle and global warming,  we developed a new 4-D variational assimilation system, called CYCLOCIM [[1]](#1).  The model estimates the climatological seasonal cycle of the residual mean ocean circulation by assimilating monthly mean potential temperature, salinity data, CFC-11, CFC-12 and natural radiocarbon measurements.  CYCLOCIM is a pioneer study that combines data, physics and machine learning framework. Here is the workflow of CYCLOCIM.
-![flow](flow.jpg)
+![flow](flow.jpg =250x)
 
 The first version is done, and we are working on the second version. In order to evaluate and compare the performance of different version of CYCLOCIM, we make the visualization tools using matlab.
 
@@ -57,5 +57,6 @@ This project was completed as part of the CYCLOCIM project in [Primeau Research 
 ### References
 <a id="1">[1]</a> 
 Qian Huang, Francois Primeau, Timothy DeVries, CYCLOCIM: A 4-D variational assimilation system for the climatological mean seasonal cycle of the ocean circulation, Ocean modelling
+
 <a id="2">[2]</a> 
 https://www.mathworks.com/matlabcentral/fileexchange/34087-cbrewer-colorbrewer-schemes-for-matlab
