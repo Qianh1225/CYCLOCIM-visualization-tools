@@ -13,17 +13,27 @@ The first version is done, and we are working on the second version. In order to
 
 The visualization tools includes two parts:
 1. Measure the fitness between modeled data and observation and compare the different model versions:
-	(1) Vertical RMSE for Potential temperature, salinity, and CFC-11.
+
+    (1) Vertical RMSE for Potential temperature, salinity, and CFC-11.
+    
     (2) Joint distribution function for the gridbox volume weighted observed and modeled tracer concentrations.
-    (3) Temperature and Salinity difference in the upper ocean
+    
+    (3) Temperature and Salinity difference in the upper ocean.
+    
     (4) Longitude-depth section of the modeled and observed potential temperature abnormaly in comparison with the annual mean.
+    
     (5) Masked zonal mean CFCs concentration for CYCLOCIM compared to observation in each decade.
+    
     (6) Masked zonal mean C14/C12/(C14/C14)_atm compared to observation in different ocean basin.
     
 2. Display the modeled physics:
+
     (7) meridional Heat and freshwater transport and surface flux.
+    
     (8) meridional streamfunction in different ocean basin.
+    
     (9) horizontal streamfunction.
+    
     (10) modeled sea surface height (SSH).
 
 ### 3. Installation<a name="installation"></a>
