@@ -67,7 +67,7 @@ This project was completed as part of the CYCLOCIM project in [Primeau Research 
 
 ### References
 <a id="1">[1]</a> 
-Qian Huang, Francois Primeau, Timothy DeVries, CYCLOCIM: A 4-D variational assimilation system for the climatological mean seasonal cycle of the ocean circulation, Ocean modelling (submitted)
+Qian Huang, Francois Primeau, Timothy DeVries, CYCLOCIM: A 4-D variational assimilation system for the climatological mean seasonal cycle of the ocean circulation, Ocean modelling (accepted)
 
 <a id="2">[2]</a> 
 https://www.mathworks.com/matlabcentral/fileexchange/34087-cbrewer-colorbrewer-schemes-for-matlab
